@@ -1,0 +1,7 @@
+Hi Professor.
+
+For Homework11, 
+
+After typing “ant” command, my build.xml also executes Shell.java file in the end so that you can see my Shell prompt which performs the operations including “count”, “viruscheck”, and “search” shell commands. Then you can perform “quit” command to come out of the shell. 
+
+Thanks. 
